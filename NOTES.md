@@ -21,7 +21,7 @@ Done: enter a vitamin or mineral deficiency, see sample food ideas, search by nu
 
 MVP checks:
 
-1. Enter “Vitamin B12” and select Add nutrient. It appears as a saved nutrient.
+1. Enter “Vitamin B12” and select Add nutrient. It appears as a saved nutrient and shows “Vitamin B12 was saved on this computer.” Empty or duplicate entries show a helpful message.
 2. Select Vitamin C or Vitamin D. Food cards appear.
 3. Use the nutrient buttons to search by vitamin type.
 4. Ask “What foods are rich in vitamin C?” and wait for the answer; the button shows “Thinking…” while it waits.
